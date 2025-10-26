@@ -1,10 +1,9 @@
-# Hackathon Submission: Jagruk - Smart Community Issue Reporting System
-
+# Hackathon Submission: Jagruk
 ## GitHub handle
 tilakjain619
 
 ## Project Title
-Jagruk
+Jagruk - Smart Community Issue Reporting System
 
 ## Project Description    
 I built the Smart Community Issue Reporting System - a full-stack civic tech platform that empowers citizens to report local issues with GPS tagging, AI-powered categorization, and real-time admin tracking. It’s designed for smart cities and social impact, with features like interactive maps, community voting, and role-based access. The goal: make civic engagement intuitive, transparent, and scalable.
@@ -38,4 +37,4 @@ I architected the system using a modern, scalable stack:
 [https://jagruk.appwrite.network](https://jagruk.appwrite.network)
 
 ## Demo Video/Photos  
-_Share a 2-3 minute demo video of your project_
+[https://youtu.be/WEiFzhXZNY0](https://youtu.be/WEiFzhXZNY0)
